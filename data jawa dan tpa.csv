@@ -1,0 +1,446 @@
+tahun,provinsi,kabupaten,timbulan_harian,timbulan_tahunan,daya_tampung
+2022,Banten,Kab. Lebak,591,215885,8030
+2022,Banten,Kab. Lebak,591,215885,32850
+2022,Banten,Kab. Lebak,591,215885,8030
+2022,Banten,Kab. Lebak,591,215885,32850
+2020,Banten,Kab. Lebak,514,187706,8030
+2019,Banten,Kab. Lebak,511,186504,32850
+2019,Banten,Kab. Pandeglang,488,178026,13757
+2022,Banten,Kab. Serang,1136,414582,30752
+2021,Banten,Kab. Serang,1164,424802,35558
+2020,Banten,Kab. Serang,1136,414582,32781
+2022,Banten,Kab. Tangerang,2305,841498,498590
+2022,Banten,Kab. Tangerang,2305,841498,498590
+2019,Banten,Kab. Tangerang,2661,971101,498590
+2022,Banten,Kota Cilegon,228,83169,66430
+2021,Banten,Kota Cilegon,217,79369,59404
+2020,Banten,Kota Cilegon,374,136458,59404
+2019,Banten,Kota Cilegon,370,135211,66430
+2022,Banten,Kota Serang,585,213464,119515
+2020,Banten,Kota Serang,522,190440,119515
+2022,Banten,Kota Tangerang,1382,504258,443785
+2019,Banten,Kota Tangerang,1584,578038,480705
+2022,Banten,Kota Tangerang Selatan,973,355009,104583
+2022,Banten,Kota Tangerang Selatan,973,355009,166660
+2021,Banten,Kota Tangerang Selatan,799,291659,182142
+2019,Banten,Kota Tangerang Selatan,1031,376412,182142
+2020,Banten,Kota Tangerang Selatan,1071,390754,182142
+2020,D.I. Yogyakarta,Kab. Bantul,526,192022,78601
+2019,D.I. Yogyakarta,Kab. Bantul,556,202911,78601
+2022,D.I. Yogyakarta,Kab. Gunungkidul,378,137872,18287
+2022,D.I. Yogyakarta,Kab. Gunungkidul,378,137872,18287
+2020,D.I. Yogyakarta,Kab. Gunungkidul,361,131671,18287
+2019,D.I. Yogyakarta,Kab. Gunungkidul,361,131671,18287
+2022,D.I. Yogyakarta,Kab. Kulon Progo,177,64731,11680
+2022,D.I. Yogyakarta,Kab. Kulon Progo,177,64731,11680
+2021,D.I. Yogyakarta,Kab. Kulon Progo,177,64654,9762
+2019,D.I. Yogyakarta,Kab. Kulon Progo,169,61774,9762
+2020,D.I. Yogyakarta,Kab. Kulon Progo,175,63714,9762
+2021,D.I. Yogyakarta,Kab. Sleman,736,268482,98437
+2021,D.I. Yogyakarta,Kab. Sleman,736,268482,98437
+2020,D.I. Yogyakarta,Kab. Sleman,702,256210,98437
+2019,D.I. Yogyakarta,Kab. Sleman,699,255180,98437
+2022,D.I. Yogyakarta,Kota Yogyakarta,303,110643,97086
+2021,D.I. Yogyakarta,Kota Yogyakarta,327,119502,91120
+2020,D.I. Yogyakarta,Kota Yogyakarta,361,131689,91120
+2019,D.I. Yogyakarta,Kota Yogyakarta,362,132116,97086
+2022,DKI Jakarta,Kab. Adm. Kep. Seribu,18,6531,4368
+2022,DKI Jakarta,Kab. Adm. Kep. Seribu,18,6531,4368
+2020,DKI Jakarta,Kab. Adm. Kep. Seribu,17,6329,4368
+2021,DKI Jakarta,Kab. Adm. Kep. Seribu,18,6429,4630
+2019,DKI Jakarta,Kab. Adm. Kep. Seribu,17,6210,4630
+2022,DKI Jakarta,Kota Adm. Jakarta Barat,2023,738548,543732
+2021,DKI Jakarta,Kota Adm. Jakarta Barat,1998,729093,544015
+2020,DKI Jakarta,Kota Adm. Jakarta Barat,1972,719768,544015
+2022,DKI Jakarta,Kota Adm. Jakarta Pusat,850,310269,229159
+2021,DKI Jakarta,Kota Adm. Jakarta Pusat,847,309298,219405
+2020,DKI Jakarta,Kota Adm. Jakarta Pusat,845,308331,219405
+2022,DKI Jakarta,Kota Adm. Jakarta Selatan,1954,713301,525366
+2021,DKI Jakarta,Kota Adm. Jakarta Selatan,1938,707201,532886
+2020,DKI Jakarta,Kota Adm. Jakarta Selatan,1921,701165,532886
+2019,DKI Jakarta,Kota Adm. Jakarta Selatan,1905,695190,532886
+2022,DKI Jakarta,Kota Adm. Jakarta Timur,2313,844252,622330
+2020,DKI Jakarta,Kota Adm. Jakarta Timur,2273,829738,622330
+2021,DKI Jakarta,Kota Adm. Jakarta Timur,2293,836961,622330
+2019,DKI Jakarta,Kota Adm. Jakarta Timur,2254,822585,622330
+2022,DKI Jakarta,Kota Adm. Jakarta Utara,1368,499481,367265
+2021,DKI Jakarta,Kota Adm. Jakarta Utara,1355,494455,367759
+2020,DKI Jakarta,Kota Adm. Jakarta Utara,1341,489481,367759
+2019,DKI Jakarta,Kota Adm. Jakarta Utara,1328,484561,367759
+2022,Jawa Barat,Kab. Bandung,1283,468352,146676
+2022,Jawa Barat,Kab. Bandung,1283,468352,146676
+2021,Jawa Barat,Kab. Bandung,1268,462939,109500
+2020,Jawa Barat,Kab. Bandung,1321,482292,109500
+2022,Jawa Barat,Kab. Bekasi,2250,821379,224883
+2022,Jawa Barat,Kab. Bekasi,2250,821379,224883
+2020,Jawa Barat,Kab. Bekasi,1900,693587,224883
+2019,Jawa Barat,Kab. Bekasi,1815,662451,223683
+2022,Jawa Barat,Kab. Ciamis,575,209758,54093
+2022,Jawa Barat,Kab. Ciamis,575,209758,54093
+2021,Jawa Barat,Kab. Ciamis,572,208818,54057
+2019,Jawa Barat,Kab. Ciamis,567,207072,54057
+2020,Jawa Barat,Kab. Ciamis,575,209921,54057
+2021,Jawa Barat,Kab. Cirebon,1237,451550,65700
+2021,Jawa Barat,Kab. Cirebon,1237,451550,65700
+2020,Jawa Barat,Kab. Cirebon,1228,448368,54750
+2020,Jawa Barat,Kab. Cirebon,1228,448368,54750
+2022,Jawa Barat,Kab. Garut,1112,405970,81483
+2022,Jawa Barat,Kab. Garut,1112,405970,81483
+2021,Jawa Barat,Kab. Garut,1120,408822,80942
+2022,Jawa Barat,Kab. Indramayu,1114,406481,60006
+2022,Jawa Barat,Kab. Indramayu,1114,406481,138262
+2022,Jawa Barat,Kab. Indramayu,1114,406481,60006
+2022,Jawa Barat,Kab. Indramayu,1114,406481,138262
+2021,Jawa Barat,Kab. Indramayu,1103,402455,54823
+2021,Jawa Barat,Kab. Indramayu,1103,402455,140197
+2022,Jawa Barat,Kab. Karawang,1004,366436,127385
+2022,Jawa Barat,Kab. Karawang,1004,366436,127385
+2022,Jawa Barat,Kab. Kuningan,599,218782,113515
+2022,Jawa Barat,Kab. Kuningan,599,218782,113515
+2019,Jawa Barat,Kab. Pangandaran,170,62019,41336
+2020,Jawa Barat,Kab. Pangandaran,171,62523,41336
+2019,Jawa Barat,Kab. Subang,1039,379289,98437
+2019,Jawa Barat,Kab. Sukabumi,1021,372510,98437
+2022,Jawa Barat,Kab. Sumedang,443,161592,548
+2022,Jawa Barat,Kab. Sumedang,443,161592,47815
+2022,Jawa Barat,Kab. Sumedang,443,161592,548
+2022,Jawa Barat,Kab. Sumedang,443,161592,47815
+2021,Jawa Barat,Kab. Sumedang,442,161463,431
+2021,Jawa Barat,Kab. Sumedang,442,161463,42705
+2019,Jawa Barat,Kab. Sumedang,438,159838,42705
+2020,Jawa Barat,Kab. Sumedang,441,160816,42705
+2022,Jawa Barat,Kota Bandung,1594,581877,464108
+2021,Jawa Barat,Kota Bandung,1593,581280,467003
+2020,Jawa Barat,Kota Bandung,1540,562035,487326
+2022,Jawa Barat,Kota Banjar,86,31268,21593
+2020,Jawa Barat,Kota Banjar,84,30567,21593
+2022,Jawa Barat,Kota Bekasi,1831,668179,365000
+2021,Jawa Barat,Kota Bekasi,2376,867237,438000
+2022,Jawa Barat,Kota Bogor,744,271728,195787
+2020,Jawa Barat,Kota Bogor,674,245922,195787
+2021,Jawa Barat,Kota Bogor,674,245922,195787
+2019,Jawa Barat,Kota Bogor,658,240205,195787
+2022,Jawa Barat,Kota Cimahi,275,100542,60299
+2021,Jawa Barat,Kota Cimahi,275,100289,76727
+2020,Jawa Barat,Kota Cimahi,273,99782,83541
+2019,Jawa Barat,Kota Cimahi,271,99039,83541
+2021,Jawa Barat,Kota Cirebon,204,74632,53564
+2021,Jawa Barat,Kota Depok,1314,479661,362810
+2019,Jawa Barat,Kota Depok,1516,553450,362810
+2020,Jawa Barat,Kota Depok,1295,472854,362810
+2022,Jawa Barat,Kota Sukabumi,180,65828,45625
+2021,Jawa Barat,Kota Sukabumi,180,65796,49166
+2019,Jawa Barat,Kota Sukabumi,178,64956,49166
+2020,Jawa Barat,Kota Sukabumi,179,65424,49166
+2022,Jawa Barat,Kota Tasikmalaya,319,116476,75843
+2020,Jawa Barat,Kota Tasikmalaya,292,106689,75843
+2019,Jawa Barat,Kota Tasikmalaya,292,106561,75843
+2022,Jawa Tengah,Kab. Banyumas,537,195964,58601
+2022,Jawa Tengah,Kab. Banyumas,537,195964,58601
+2021,Jawa Tengah,Kab. Banyumas,535,195358,58400
+2022,Jawa Tengah,Kab. Batang,567,207055,41975
+2021,Jawa Tengah,Kab. Batang,324,118317,33456
+2020,Jawa Tengah,Kab. Batang,241,87788,33456
+2019,Jawa Tengah,Kab. Batang,231,84160,32356
+2022,Jawa Tengah,Kab. Blora,383,139812,92465
+2022,Jawa Tengah,Kab. Blora,383,139812,10950
+2022,Jawa Tengah,Kab. Blora,383,139812,92465
+2022,Jawa Tengah,Kab. Blora,383,139812,10950
+2021,Jawa Tengah,Kab. Blora,227,82802,28470
+2021,Jawa Tengah,Kab. Blora,227,82802,32850
+2020,Jawa Tengah,Kab. Blora,371,135568,32850
+2022,Jawa Tengah,Kab. Boyolali,293,106781,30113
+2022,Jawa Tengah,Kab. Boyolali,293,106781,30113
+2021,Jawa Tengah,Kab. Boyolali,291,106159,30868
+2020,Jawa Tengah,Kab. Boyolali,288,105095,30868
+2019,Jawa Tengah,Kab. Boyolali,266,97053,30868
+2022,Jawa Tengah,Kab. Brebes,1005,366938,34474
+2022,Jawa Tengah,Kab. Brebes,1005,366938,14104
+2022,Jawa Tengah,Kab. Brebes,1005,366938,34474
+2022,Jawa Tengah,Kab. Brebes,1005,366938,14104
+2021,Jawa Tengah,Kab. Brebes,983,358865,14104
+2021,Jawa Tengah,Kab. Brebes,983,358865,36664
+2019,Jawa Tengah,Kab. Brebes,905,330160,14104
+2020,Jawa Tengah,Kab. Brebes,989,361124,14104
+2022,Jawa Tengah,Kab. Cilacap,951,347056,14742
+2022,Jawa Tengah,Kab. Cilacap,951,347056,17297
+2022,Jawa Tengah,Kab. Cilacap,951,347056,45248
+2022,Jawa Tengah,Kab. Cilacap,951,347056,14742
+2022,Jawa Tengah,Kab. Cilacap,951,347056,17297
+2022,Jawa Tengah,Kab. Cilacap,951,347056,45248
+2021,Jawa Tengah,Kab. Cilacap,944,344409,2551
+2021,Jawa Tengah,Kab. Cilacap,944,344409,7300
+2021,Jawa Tengah,Kab. Cilacap,944,344409,10950
+2019,Jawa Tengah,Kab. Cilacap,913,333228,7300
+2020,Jawa Tengah,Kab. Cilacap,940,343019,45248
+2022,Jawa Tengah,Kab. Demak,722,263666,32850
+2022,Jawa Tengah,Kab. Demak,722,263666,32850
+2021,Jawa Tengah,Kab. Demak,722,263666,77738
+2021,Jawa Tengah,Kab. Demak,722,263666,36135
+2022,Jawa Tengah,Kab. Grobogan,849,310022,27740
+2022,Jawa Tengah,Kab. Grobogan,849,310022,27740
+2019,Jawa Tengah,Kab. Grobogan,739,269786,27740
+2022,Jawa Tengah,Kab. Jepara,412,150516,548
+2022,Jawa Tengah,Kab. Jepara,412,150516,4380
+2022,Jawa Tengah,Kab. Jepara,412,150516,54422
+2021,Jawa Tengah,Kab. Jepara,400,146028,4088
+2021,Jawa Tengah,Kab. Jepara,400,146028,54111
+2020,Jawa Tengah,Kab. Jepara,697,254418,4088
+2019,Jawa Tengah,Kab. Jepara,688,251072,54111
+2022,Jawa Tengah,Kab. Karanganyar,376,137066,32850
+2022,Jawa Tengah,Kab. Karanganyar,376,137066,32850
+2021,Jawa Tengah,Kab. Karanganyar,362,132072,27375
+2021,Jawa Tengah,Kab. Karanganyar,362,132072,27375
+2022,Jawa Tengah,Kab. Kebumen,463,169013,28302
+2022,Jawa Tengah,Kab. Kebumen,463,169013,70682
+2022,Jawa Tengah,Kab. Kebumen,463,169013,28302
+2022,Jawa Tengah,Kab. Kebumen,463,169013,70682
+2019,Jawa Tengah,Kab. Kebumen,407,148387,28302
+2022,Jawa Tengah,Kab. Kendal,410,149653,59650
+2022,Jawa Tengah,Kab. Kendal,410,149653,59650
+2021,Jawa Tengah,Kab. Kendal,410,149653,30785
+2021,Jawa Tengah,Kab. Kendal,410,149653,7632
+2019,Jawa Tengah,Kab. Kendal,405,147743,30785
+2020,Jawa Tengah,Kab. Kendal,407,148702,59650
+2022,Jawa Tengah,Kab. Klaten,643,234703,35366
+2022,Jawa Tengah,Kab. Klaten,643,234703,35366
+2021,Jawa Tengah,Kab. Klaten,590,215459,33179
+2019,Jawa Tengah,Kab. Klaten,353,128661,47114
+2022,Jawa Tengah,Kab. Kudus,448,163579,47114
+2022,Jawa Tengah,Kab. Kudus,448,163579,47114
+2019,Jawa Tengah,Kab. Kudus,436,159083,47114
+2020,Jawa Tengah,Kab. Kudus,441,160924,47114
+2021,Jawa Tengah,Kab. Magelang,682,248800,25181
+2020,Jawa Tengah,Kab. Magelang,681,248530,29238
+2021,Jawa Tengah,Kab. Pati,662,241664,43586
+2019,Jawa Tengah,Kab. Pati,501,182982,13757
+2020,Jawa Tengah,Kab. Pati,655,239061,13757
+2022,Jawa Tengah,Kab. Pekalongan,391,142570,51100
+2022,Jawa Tengah,Kab. Pekalongan,391,142570,51100
+2021,Jawa Tengah,Kab. Pekalongan,388,141448,50918
+2022,Jawa Tengah,Kab. Pemalang,594,216695,120450
+2021,Jawa Tengah,Kab. Pemalang,589,214837,120450
+2020,Jawa Tengah,Kab. Pemalang,392,142971,50918
+2019,Jawa Tengah,Kab. Pemalang,391,142658,120450
+2022,Jawa Tengah,Kab. Purbalingga,510,186121,40880
+2021,Jawa Tengah,Kab. Purbalingga,506,184585,39785
+2022,Jawa Tengah,Kab. Purworejo,290,105694,22984
+2022,Jawa Tengah,Kab. Purworejo,290,105694,22984
+2021,Jawa Tengah,Kab. Purworejo,289,105420,16947
+2020,Jawa Tengah,Kab. Purworejo,288,105147,22984
+2019,Jawa Tengah,Kab. Purworejo,287,104874,16947
+2022,Jawa Tengah,Kab. Rembang,252,92026,13933
+2021,Jawa Tengah,Kab. Rembang,246,89666,13213
+2020,Jawa Tengah,Kab. Rembang,238,86906,13213
+2019,Jawa Tengah,Kab. Rembang,229,83544,13933
+2022,Jawa Tengah,Kab. Semarang,530,193422,75099
+2021,Jawa Tengah,Kab. Semarang,527,192189,71175
+2020,Jawa Tengah,Kab. Semarang,533,194690,75099
+2019,Jawa Tengah,Kab. Semarang,527,192320,71175
+2022,Jawa Tengah,Kab. Sragen,590,215417,71905
+2022,Jawa Tengah,Kab. Sragen,590,215417,71905
+2021,Jawa Tengah,Kab. Sragen,586,213952,71175
+2020,Jawa Tengah,Kab. Sragen,534,195023,85775
+2019,Jawa Tengah,Kab. Sragen,533,194448,76650
+2022,Jawa Tengah,Kab. Sukoharjo,362,132101,74500
+2022,Jawa Tengah,Kab. Sukoharjo,362,132101,74500
+2021,Jawa Tengah,Kab. Sukoharjo,359,131201,67197
+2020,Jawa Tengah,Kab. Sukoharjo,364,132864,74500
+2019,Jawa Tengah,Kab. Sukoharjo,366,133537,74500
+2022,Jawa Tengah,Kab. Tegal,840,306466,131765
+2022,Jawa Tengah,Kab. Tegal,840,306466,131765
+2021,Jawa Tengah,Kab. Tegal,671,244819,155928
+2020,Jawa Tengah,Kab. Tegal,1019,371778,155928
+2022,Jawa Tengah,Kab. Temanggung,400,146050,43702
+2022,Jawa Tengah,Kab. Temanggung,400,146050,43702
+2021,Jawa Tengah,Kab. Temanggung,500,182563,38224
+2020,Jawa Tengah,Kab. Temanggung,496,181144,38224
+2022,Jawa Tengah,Kab. Wonogiri,348,126918,18302
+2022,Jawa Tengah,Kab. Wonogiri,348,126918,18302
+2021,Jawa Tengah,Kab. Wonogiri,439,160370,18027
+2019,Jawa Tengah,Kab. Wonogiri,437,159360,18027
+2020,Jawa Tengah,Kab. Wonogiri,437,159664,18027
+2022,Jawa Tengah,Kab. Wonosobo,366,133683,38325
+2021,Jawa Tengah,Kab. Wonosobo,363,132496,37230
+2020,Jawa Tengah,Kab. Wonosobo,352,128352,37230
+2019,Jawa Tengah,Kab. Wonosobo,316,115412,37230
+2022,Jawa Tengah,Kota Magelang,81,29385,21902
+2021,Jawa Tengah,Kota Magelang,81,29448,23197
+2020,Jawa Tengah,Kota Magelang,90,32709,23197
+2019,Jawa Tengah,Kota Magelang,85,31169,21902
+2022,Jawa Tengah,Kota Salatiga,114,41668,29306
+2021,Jawa Tengah,Kota Salatiga,112,40969,29404
+2020,Jawa Tengah,Kota Salatiga,114,41620,29404
+2022,Jawa Tengah,Kota Semarang,1181,431085,313891
+2021,Jawa Tengah,Kota Semarang,1180,430750,319375
+2020,Jawa Tengah,Kota Semarang,1277,466011,319375
+2019,Jawa Tengah,Kota Semarang,1252,456873,319375
+2022,Jawa Tengah,Kota Surakarta,376,137345,116992
+2022,Jawa Tengah,Kota Tegal,217,79366,54093
+2021,Jawa Tengah,Kota Tegal,202,73574,56174
+2022,Jawa Timur,Kab. Banyuwangi,814,297078,48822
+2022,Jawa Timur,Kab. Banyuwangi,814,297078,48822
+2021,Jawa Timur,Kab. Banyuwangi,1253,457297,105511
+2019,Jawa Timur,Kab. Banyuwangi,1222,446020,48822
+2020,Jawa Timur,Kab. Blitar,423,154238,92465
+2021,Jawa Timur,Kab. Blitar,410,149624,92465
+2019,Jawa Timur,Kab. Blitar,416,151697,78465
+2022,Jawa Timur,Kab. Bojonegoro,376,137271,62
+2022,Jawa Timur,Kab. Bojonegoro,376,137271,22431
+2022,Jawa Timur,Kab. Bojonegoro,376,137271,62
+2022,Jawa Timur,Kab. Bojonegoro,376,137271,22431
+2021,Jawa Timur,Kab. Bojonegoro,537,195824,34073
+2021,Jawa Timur,Kab. Bojonegoro,537,195824,34073
+2019,Jawa Timur,Kab. Bojonegoro,509,185688,34073
+2020,Jawa Timur,Kab. Bondowoso,287,104819,30113
+2019,Jawa Timur,Kab. Bondowoso,286,104299,30113
+2022,Jawa Timur,Kab. Gresik,391,142835,77198
+2022,Jawa Timur,Kab. Gresik,391,142835,77198
+2019,Jawa Timur,Kab. Gresik,325,118459,77198
+2020,Jawa Timur,Kab. Gresik,328,119648,80942
+2022,Jawa Timur,Kab. Jember,1015,370362,12775
+2022,Jawa Timur,Kab. Jember,1015,370362,67890
+2022,Jawa Timur,Kab. Jember,1015,370362,1825
+2022,Jawa Timur,Kab. Jember,1015,370362,16425
+2022,Jawa Timur,Kab. Jember,1015,370362,12775
+2022,Jawa Timur,Kab. Jember,1015,370362,67890
+2022,Jawa Timur,Kab. Jember,1015,370362,1825
+2022,Jawa Timur,Kab. Jember,1015,370362,16425
+2022,Jawa Timur,Kab. Jombang,530,193583,53801
+2022,Jawa Timur,Kab. Jombang,530,193583,53801
+2021,Jawa Timur,Kab. Jombang,530,193583,44621
+2020,Jawa Timur,Kab. Jombang,527,192437,44621
+2022,Jawa Timur,Kab. Kediri,658,240082,44357
+2022,Jawa Timur,Kab. Kediri,658,240082,44357
+2021,Jawa Timur,Kab. Kediri,534,194846,36500
+2021,Jawa Timur,Kab. Kediri,534,194846,36500
+2019,Jawa Timur,Kab. Kediri,506,184669,59650
+2022,Jawa Timur,Kab. Lamongan,222,81008,21900
+2021,Jawa Timur,Kab. Lamongan,222,81008,23725
+2022,Jawa Timur,Kab. Lumajang,525,191446,66576
+2022,Jawa Timur,Kab. Lumajang,525,191446,66576
+2021,Jawa Timur,Kab. Lumajang,502,183049,63620
+2019,Jawa Timur,Kab. Lumajang,500,182629,63620
+2020,Jawa Timur,Kab. Lumajang,501,183033,66576
+2019,Jawa Timur,Kab. Madiun,273,99671,23725
+2022,Jawa Timur,Kab. Magetan,276,100648,16005
+2021,Jawa Timur,Kab. Magetan,268,97939,23725
+2020,Jawa Timur,Kab. Magetan,279,101945,47114
+2022,Jawa Timur,Kab. Malang,961,350614,38325
+2022,Jawa Timur,Kab. Malang,961,350614,36237
+2022,Jawa Timur,Kab. Malang,961,350614,70445
+2022,Jawa Timur,Kab. Malang,961,350614,38325
+2022,Jawa Timur,Kab. Malang,961,350614,36237
+2022,Jawa Timur,Kab. Malang,961,350614,70445
+2019,Jawa Timur,Kab. Malang,1042,380506,70445
+2022,Jawa Timur,Kab. Mojokerto,461,168323,24634
+2022,Jawa Timur,Kab. Mojokerto,461,168323,7054
+2022,Jawa Timur,Kab. Mojokerto,461,168323,7054
+2022,Jawa Timur,Kab. Nganjuk,444,162108,5475
+2022,Jawa Timur,Kab. Nganjuk,444,162108,3650
+2022,Jawa Timur,Kab. Nganjuk,444,162108,18374
+2022,Jawa Timur,Kab. Nganjuk,444,162108,5475
+2022,Jawa Timur,Kab. Nganjuk,444,162108,3650
+2022,Jawa Timur,Kab. Nganjuk,444,162108,18374
+2021,Jawa Timur,Kab. Nganjuk,444,162014,5475
+2021,Jawa Timur,Kab. Nganjuk,444,162014,3650
+2021,Jawa Timur,Kab. Nganjuk,444,162014,18250
+2019,Jawa Timur,Kab. Nganjuk,422,153973,3650
+2020,Jawa Timur,Kab. Nganjuk,423,154374,5475
+2022,Jawa Timur,Kab. Ngawi,358,130696,2920
+2022,Jawa Timur,Kab. Ngawi,358,130696,5110
+2022,Jawa Timur,Kab. Ngawi,358,130696,5840
+2022,Jawa Timur,Kab. Ngawi,358,130696,14053
+2022,Jawa Timur,Kab. Ngawi,358,130696,2920
+2022,Jawa Timur,Kab. Ngawi,358,130696,5110
+2022,Jawa Timur,Kab. Ngawi,358,130696,5840
+2022,Jawa Timur,Kab. Ngawi,358,130696,14053
+2021,Jawa Timur,Kab. Ngawi,357,130204,5366
+2021,Jawa Timur,Kab. Ngawi,357,130204,4636
+2021,Jawa Timur,Kab. Ngawi,357,130204,15859
+2020,Jawa Timur,Kab. Ngawi,367,133779,4636
+2019,Jawa Timur,Kab. Ngawi,365,133379,15859
+2022,Jawa Timur,Kab. Pacitan,288,105000,13757
+2021,Jawa Timur,Kab. Pacitan,287,104655,12033
+2019,Jawa Timur,Kab. Pacitan,285,103962,12033
+2020,Jawa Timur,Kab. Pacitan,286,104308,13757
+2022,Jawa Timur,Kab. Pamekasan,277,101141,41336
+2022,Jawa Timur,Kab. Pamekasan,277,101141,41336
+2020,Jawa Timur,Kab. Pamekasan,272,99350,41336
+2021,Jawa Timur,Kab. Pamekasan,277,100957,41336
+2019,Jawa Timur,Kab. Pamekasan,269,98305,41336
+2019,Jawa Timur,Kab. Pasuruan,1152,420501,15859
+2022,Jawa Timur,Kab. Ponorogo,382,139553,83950
+2022,Jawa Timur,Kab. Ponorogo,382,139553,83950
+2021,Jawa Timur,Kab. Ponorogo,388,141541,83950
+2020,Jawa Timur,Kab. Ponorogo,349,127432,83950
+2019,Jawa Timur,Kab. Probolinggo,466,170134,83950
+2020,Jawa Timur,Kab. Probolinggo,458,167335,83950
+2022,Jawa Timur,Kab. Sampang,464,169511,11680
+2022,Jawa Timur,Kab. Sampang,464,169511,1825
+2022,Jawa Timur,Kab. Sampang,464,169511,11680
+2022,Jawa Timur,Kab. Sampang,464,169511,1825
+2019,Jawa Timur,Kab. Sampang,229,83450,71175
+2019,Jawa Timur,Kab. Sidoarjo,1224,446734,30752
+2020,Jawa Timur,Kab. Sidoarjo,1086,396477,32781
+2022,Jawa Timur,Kab. Situbondo,257,93892,51512
+2022,Jawa Timur,Kab. Situbondo,257,93892,51512
+2021,Jawa Timur,Kab. Situbondo,257,93866,49275
+2021,Jawa Timur,Kab. Situbondo,257,93866,49275
+2019,Jawa Timur,Kab. Situbondo,256,93483,49275
+2020,Jawa Timur,Kab. Situbondo,259,94666,49275
+2022,Jawa Timur,Kab. Sumenep,362,132198,12410
+2022,Jawa Timur,Kab. Sumenep,362,132198,12410
+2021,Jawa Timur,Kab. Sumenep,367,134117,9649
+2020,Jawa Timur,Kab. Sumenep,364,132789,11841
+2019,Jawa Timur,Kab. Sumenep,360,131474,11841
+2022,Jawa Timur,Kab. Trenggalek,305,111499,57305
+2022,Jawa Timur,Kab. Trenggalek,305,111499,57305
+2021,Jawa Timur,Kab. Trenggalek,294,107294,55115
+2020,Jawa Timur,Kab. Trenggalek,300,109537,55115
+2019,Jawa Timur,Kab. Trenggalek,307,112059,55115
+2022,Jawa Timur,Kab. Tuban,505,184439,52925
+2022,Jawa Timur,Kab. Tuban,505,184439,52925
+2021,Jawa Timur,Kab. Tuban,503,183655,49275
+2021,Jawa Timur,Kab. Tuban,503,183655,49275
+2020,Jawa Timur,Kab. Tuban,493,179991,49275
+2019,Jawa Timur,Kab. Tuban,491,179185,49275
+2022,Jawa Timur,Kab. Tulungagung,554,202149,41975
+2022,Jawa Timur,Kab. Tulungagung,554,202149,41975
+2021,Jawa Timur,Kab. Tulungagung,548,200128,40150
+2021,Jawa Timur,Kab. Tulungagung,548,200128,40150
+2019,Jawa Timur,Kab. Tulungagung,520,189622,40150
+2022,Jawa Timur,Kota Batu,135,49359,41975
+2021,Jawa Timur,Kota Batu,114,41762,35770
+2019,Jawa Timur,Kota Batu,116,42457,35770
+2022,Jawa Timur,Kota Blitar,76,27733,22367
+2021,Jawa Timur,Kota Blitar,75,27443,21609
+2020,Jawa Timur,Kota Blitar,75,27220,21609
+2019,Jawa Timur,Kota Blitar,71,25892,22367
+2022,Jawa Timur,Kota Kediri,179,65184,53701
+2021,Jawa Timur,Kota Kediri,169,61812,49640
+2019,Jawa Timur,Kota Kediri,147,53828,49640
+2020,Jawa Timur,Kota Kediri,151,55091,53701
+2022,Jawa Timur,Kota Madiun,121,44220,31607
+2021,Jawa Timur,Kota Madiun,120,43695,31500
+2019,Jawa Timur,Kota Madiun,117,42622,31500
+2020,Jawa Timur,Kota Madiun,118,43134,31607
+2022,Jawa Timur,Kota Malang,765,279148,191194
+2020,Jawa Timur,Kota Malang,678,247389,191194
+2019,Jawa Timur,Kota Malang,670,244720,191194
+2021,Jawa Timur,Kota Malang,678,247389,191194
+2022,Jawa Timur,Kota Mojokerto,67,24420,18907
+2020,Jawa Timur,Kota Mojokerto,65,23790,18177
+2019,Jawa Timur,Kota Mojokerto,65,23628,18177
+2022,Jawa Timur,Kota Pasuruan,146,53297,39137
+2021,Jawa Timur,Kota Pasuruan,135,49349,35719
+2020,Jawa Timur,Kota Pasuruan,133,48395,32472
+2019,Jawa Timur,Kota Pasuruan,131,47916,32472
+2022,Jawa Timur,Kota Probolinggo,97,35465,24820
+2021,Jawa Timur,Kota Probolinggo,97,35248,25550
+2019,Jawa Timur,Kota Probolinggo,94,34341,25550
+2020,Jawa Timur,Kota Probolinggo,96,34949,25550
+2022,Jawa Timur,Kota Surabaya,1784,651043,218023
+2021,Jawa Timur,Kota Surabaya,1783,650615,243184
+2019,Jawa Timur,Kota Surabaya,2224,811860,243184
+2020,Jawa Timur,Kota Surabaya,2223,811255,243184
